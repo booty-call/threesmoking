@@ -1,0 +1,6 @@
+我们的网址:www.smokingsource.cn
+云服务器（Linux）:IP/172.81.239.80  用户名/root   密码/root@123456
+数据库:   106.15.31.128   超级管理员   root   root
+我们的项目地址:
+后台:https://github.com/YouAreCold/DeerDreamBlog_Manager.git
+前端:https://github.com/YouAreCold/DeerDreamBlog_View.git
